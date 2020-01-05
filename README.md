@@ -39,8 +39,8 @@ In the course we will be heavily using Python for programming excercises and ana
   - Online transactions
   - Understanding NoSQL
   - Column storage vs Row Storage
-  - Database Produts: Big Table, Dynamo DB, Spanner
   - Distributed System Resilience - Zookeeper, HashiCorp Consul, System-d and Google Chubby, Paxos and Consensus
+  - Storage Produts: Big Table, Dynamo DB, Spanner, Memcached
 - Computation Models and Big Data Processing (Batch Data)
   - Classical Workflow Systems
   - Map Reduce and HDFS
