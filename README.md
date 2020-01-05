@@ -33,7 +33,7 @@ In the course we will be heavily using Python for programming excercises and ana
 ## Topics to be covered
 - Applications of Big Data
 - History of Database and Big Data Systems
-- Infrastructure of Big Data
+- Big Data Infrastructure
   - Computing Clusters. 
   - Understanding the database anatomy and optimizing access
   - Online transactions
@@ -53,8 +53,9 @@ In the course we will be heavily using Python for programming excercises and ana
   - Link Analysis and Page Rank
   - Large Scale Machine Learning
 - Practical Applications (Projects)
-  - City Scooter and Accident Data Analysis
-  - Recommeder Systems
+  - City Scooter Data Analysis 
+  - City Accident Data Analysis
+  - Recommender Systems
   - Transit Energy systems
   
  ## Exams, Quizzes, Assignments and projects
