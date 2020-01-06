@@ -1,5 +1,15 @@
 # Topics in Big Data
 
+## Setup Guide
+
+### AWS
+
+Please see the [AWS guide](00-aws-setup-guide) for setting AWS and instances. You will receive an invitation for the class.
+
+### Google Colab
+
+We will use google colab in the class. Start at https://colab.research.google.com/github/ and link your github account. Selectincl private repos. Start with https://github.com/vu-bigdata-2020/example-notebooks for example analyses.
+
 
 ## Introduction
 
