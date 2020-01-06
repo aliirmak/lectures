@@ -19,7 +19,7 @@ I am also available by appointment as required. Send me an email if you need to 
 
 ### Teaching Assistant 
 
-Nithin Guruswamy [Office Hours TBD]
+Nithin Guruswamy [FGH 302 Desk F - 10:30am to 11:30 am MON and WED  ]
 
 ### Graders
 
