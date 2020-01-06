@@ -72,7 +72,7 @@ Most lectures I will assign reading material. You are expected to read it before
 
 ## No collaborations unless explicitly permitted.
 
-The Vanderbilt Honor Code will govern work done. ANY VIOLATIONS WILL RESULT in the case to be reported to the honor council. You are welcome to refer to the online sources for your assignments. However, you must not copy the code and must provide citation of the source of inspiration if do refer to the online sites. All work will be submitted via github.
+The Vanderbilt Honor Code will govern work done. ANY VIOLATIONS WILL RESULT in the case to be reported to the honor council. You are welcome to refer to the online sources for your assignments. However, you must not copy the code and must provide citation of the source of inspiration. All work will be submitted via github.
 
 ## Evaluation
 
