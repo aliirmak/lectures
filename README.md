@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The goal of this class is to cover topics in Big Data. The focus will be on principles and practices of big data processing and analytics. Data storage databases and data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. We will learn about application of these concepts on large scale urban analytics in cities. 
+The goal of this class is to cover topics in Big Data. The focus will be on principles and practices of data storage, data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. We will learn about application of these concepts on large scale urban analytics in cities. 
 
 ## Instructor
 
