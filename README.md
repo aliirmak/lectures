@@ -31,7 +31,7 @@ Nithin Guruswamy [Office Hours TBD]
 In the course we will be heavily using Python for programming excercises and analysis. We will also be using google collaboratory and Amazon Web Services. Knowledge of python is required. 
 
 ## Reading Material
-Most lectures I will assign reading material. You are expected to read it before the next class. The reading material that you should finish before lecture_{i+1} will be sent as reading list in lecture_{i} folder. See [lecture-01/reading](lecture-01/reading) for example.
+Most lectures I will assign reading material. You are expected to read it before the next class. The reading material that you should finish before lecture_{i+1} will be sent as reading list in lecture_{i} folder. See [01-introduction/reading](01-introduction/reading) for example.
 
 
 ## Topics to be covered
