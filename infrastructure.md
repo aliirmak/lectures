@@ -6,6 +6,8 @@ Please see the [AWS guide](00-aws-setup-guide) for setting AWS and instances. Yo
 
 We will use google colab in the class. Start at https://colab.research.google.com/github/ and link your github account. Selectincl private repos. Start with https://github.com/vu-bigdata-2020/example-notebooks for example analyses.
 
+See https://www.geeksforgeeks.org/how-to-use-google-colab/
+
 ### Accessing Homeworks
 
 Repositories will be created for each student through github classroom. You will get a url to accept the assignment.  You should see yours at 
