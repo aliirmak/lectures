@@ -5,6 +5,10 @@
 
 The goal of this class is to cover topics in Big Data. The focus will be on principles and practices of data storage, data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. We will learn about application of these concepts on large scale urban analytics in cities. 
 
+## Infrastructure
+
+We will use google colab, AWS and github. Please see [infrastructure.md](infrastructure.md)
+
 ## Instructor
 
 Abhishek Dubey `(first name . last name at vanderbilt.edu)`
