@@ -30,6 +30,9 @@ Nithin Guruswamy [FGH 302 Desk F - 10:30am to 11:30 am MON and WED  ]
 
 In the course we will be heavily using Python for programming excercises and analysis. We will also be using google collaboratory and Amazon Web Services. Knowledge of python is required. You are also expected to know how to use github and clone repositories.
 
+
+see the file [infrastructure.md](infrastructure.md)
+
 ## Reading Material
 Most lectures I will assign reading material. You are expected to read it before the next class. The reading material that you should finish before lecture_{i+1} will be sent as reading list in lecture_{i} folder. See [01-introduction/reading](01-introduction/reading) for example.
 
