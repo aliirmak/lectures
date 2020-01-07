@@ -35,10 +35,10 @@ Most lectures I will assign reading material. You are expected to read it before
 
 
 ## Topics to be covered
-- Applications of Big Data
-- History of Database and Big Data Systems
+- [Applications of Big Data](https://vanderbilt365-my.sharepoint.com/:p:/g/personal/abhishek_dubey_vanderbilt_edu/EQS_UWKzCTpHlRhTARG76YYBYtKHV3v9-K1454_yYH7y1w?e=qWb0je)
+- [History of Database and Big Data Systems](02-history)
 - Big Data Infrastructure
-  - Computing Clusters. 
+  - computing clusters (quick overview of cloud computing)
   - Understanding the database anatomy and optimizing access
   - Online transactions
   - Understanding NoSQL
