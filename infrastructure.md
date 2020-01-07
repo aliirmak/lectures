@@ -28,3 +28,5 @@ To pull updates do the following:
     git merge upstream/master
 
 You will need to resolve conflicts if they occur. 
+
+If you have not used github before, see https://guides.github.com/activities/hello-world/. Further, see https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh for secure access to github repositories.
