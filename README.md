@@ -5,6 +5,10 @@
 
 The goal of this class is to cover topics in Big Data. The focus will be on principles and practices of data storage, data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. We will learn about application of these concepts on large scale urban analytics in cities. 
 
+## Infrastructure
+
+We will use google colab, AWS and github. Please see [infrastructure.md](infrastructure.md)
+
 ## Instructor
 
 Abhishek Dubey `(first name . last name at vanderbilt.edu)`
@@ -30,15 +34,18 @@ Nithin Guruswamy [FGH 302 Desk F - 10:30am to 11:30 am MON and WED  ]
 
 In the course we will be heavily using Python for programming excercises and analysis. We will also be using google collaboratory and Amazon Web Services. Knowledge of python is required. You are also expected to know how to use github and clone repositories.
 
+
+see the file [infrastructure.md](infrastructure.md)
+
 ## Reading Material
 Most lectures I will assign reading material. You are expected to read it before the next class. The reading material that you should finish before lecture_{i+1} will be sent as reading list in lecture_{i} folder. See [01-introduction/reading](01-introduction/reading) for example.
 
 
 ## Topics to be covered
-- Applications of Big Data
-- History of Database and Big Data Systems
+- [Applications of Big Data](https://vanderbilt365-my.sharepoint.com/:p:/g/personal/abhishek_dubey_vanderbilt_edu/EQS_UWKzCTpHlRhTARG76YYBYtKHV3v9-K1454_yYH7y1w?e=qWb0je)
+- [History of Database and Big Data Systems](02-history)
 - Big Data Infrastructure
-  - Computing Clusters. 
+  - computing clusters (quick overview of cloud computing)
   - Understanding the database anatomy and optimizing access
   - Online transactions
   - Understanding NoSQL
@@ -138,33 +145,3 @@ please discuss that need with the instructors.
 
 If a tornado siren is heard, please go to the nearest interior hallway or interior rooms away from windows.
 
-# Setup Guide
-
-### AWS
-
-Please see the [AWS guide](00-aws-setup-guide) for setting AWS and instances. You will receive an invitation for the class.
-
-### Google Colab
-
-We will use google colab in the class. Start at https://colab.research.google.com/github/ and link your github account. Selectincl private repos. Start with https://github.com/vu-bigdata-2020/example-notebooks for example analyses.
-
-### Accessing Homeworks
-
-Repositories will be created for each student through github classroom. You will get a url to accept the assignment.  You should see yours at 
-
-    https://github.com/vu-bigdata-2020/homework-2-<GITHUB USERNAME> 
-
-Clone the repository to your home directory on the cluster using:
-
-    git clone https://github.com/vu-bigdata-2020/homework-2-<GITHUB USERNAME>.git
-
-I may push updates to this homework assignment in the future. To setup an upstream repo, do the following:
-
-    git remote add upstream https://github.com/vu-bigdata-2020/homework-2.git
-
-To pull updates do the following:
-    
-    git fetch upstream
-    git merge upstream/master
-
-You will need to resolve conflicts if they occur. 
